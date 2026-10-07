@@ -1,5 +1,5 @@
 from count4 import out as remote_out
 
 def out():
-    print("3")
+    print("Three")
     remote_out()
