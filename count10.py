@@ -1,3 +1,3 @@
 
 def out():
-    print("10")
+    print("TEN")
