@@ -1,4 +1,4 @@
 from count2 import out as remote_out
 
-print("One")
+print("1(ONE)")
 remote_out()
